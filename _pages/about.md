@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "/Computer Vision Neurology Group"
+title: "Computer Vision Neurology Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
