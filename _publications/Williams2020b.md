@@ -6,7 +6,7 @@ excerpt: 'The method described here presents an approach for predicting bradykin
 date: 2020-10-06
 venue: 'AI in Medicine'
 paperurl: 'https://personalpages.manchester.ac.uk/staff/david.wong/assets/Papers/2019Williams.pdf'
-citation: 'Zhao Z, Fang H, Williams S, Relton SD, Alty JE., Wong DC. &quot;Time series clustering to examine presence of decrement in Parkinson’s finger-tapping bradykinesia&quot; <i>42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i>.'
+citation: 'Williams S, Relton SD, Fang H, Alty JE, Qahwaji R, Graham CD,  Wong DC &quot;Supervised classification of bradykinesia for Parkinson's disease from smartphone video.&quot; <i>42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i>.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
