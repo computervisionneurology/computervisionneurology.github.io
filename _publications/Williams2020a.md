@@ -2,7 +2,8 @@
 title: "Accuracy of smartphone video for contactless measurement of hand tremor frequency"
 collection: publications
 permalink: /publication/William2020a
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The study suggests a potential new, contactless ‘point and press’ measure of tremor
+frequency within standard clinical settings or telemedicine'
 date: 2020-11-01
 venue: 'Movement Disorders Clinical Practice'
 paperurl: 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mdc3.13119'
