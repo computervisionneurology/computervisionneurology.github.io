@@ -2,12 +2,7 @@
 title: "The discerning eye of computer vision: Can it measure Parkinson's finger tap bradykinesia?"
 collection: publications
 permalink: /publication/William2020c
-excerpt: 'New computer vision software, DeepLabCut, can quantify three measures related to Parkinson’s bradykinesia
-from smartphone videos of finger tapping. Objective ‘contactless’ measures of standard clinical examinations
-were not previously possible with wearable sensors (accelerometers, gyroscopes, infrared markers).
-DeepLabCut requires only conventional video recording of clinical examination and is entirely ‘contactless’.
-This next generation technology holds potential for Parkinson’s and other neurological disorders with altered
-movements.'
+excerpt: 'New computer vision software, DeepLabCut, can quantify three measures related to Parkinson’s bradykinesia from smartphone videos of finger tapping. Objective ‘contactless’ measures of standard clinical examinations were not previously possible with wearable sensors (accelerometers, gyroscopes, infrared markers). DeepLabCut requires only conventional video recording of clinical examination and is entirely ‘contactless’. This next generation technology holds potential for Parkinson’s and other neurological disorders with altered movements.'
 date: 2020-06-06
 venue: 'Journal of the Neurological Sciences'
 paperurl: 'https://www.research.manchester.ac.uk/portal/files/170983862/JNS_D_20_00378_R2_2_1_.pdf'
