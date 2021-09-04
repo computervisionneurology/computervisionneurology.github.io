@@ -1,7 +1,7 @@
 ---
-title: "Time series clustering to examine presence of decrement in Parkinson’s finger-tapping bradykinesia"
+title: "Supervised classification of bradykinesia for Parkinson's disease from smartphone video"
 collection: publications
-permalink: /publication/Zhao2020a
+permalink: /publication/William2020b
 excerpt: 'Our work visually presents the archetypal types of bradykinesia amplitude decrement, as seen in the Parkinson’s finger-tapping test. We found two main patterns, one corresponding to no bradykinesia, and the other showing linear decrement over time'
 date: 2020-06-01
 venue: '42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
