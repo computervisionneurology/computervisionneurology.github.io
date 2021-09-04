@@ -6,7 +6,7 @@ excerpt: 'New computer vision software, DeepLabCut, can quantify three measures 
 date: 2020-06-06
 venue: 'Journal of the Neurological Sciences'
 paperurl: 'https://www.research.manchester.ac.uk/portal/files/170983862/JNS_D_20_00378_R2_2_1_.pdf'
-citation: 'Willams S, Zhao Z, Hafeez A, Wong DC, Relton SD, Fang H, Alty JE. &quot;The discerning eye of computer vision: Can it measure Parkinson's finger tap bradykinesia?.&quot; <i>Journal of the Neurological Sciences</i>.'
+citation: 'Willams S, Zhao Z, Hafeez A, Wong DC, Relton SD, Fang H, Alty JE. &quot;The discerning eye of computer vision: Can it measure Parkinson’s finger tap bradykinesia?.&quot; <i>Journal of the Neurological Sciences</i>.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
