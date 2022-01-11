@@ -23,7 +23,7 @@ included:
 1. Automatic, video-based measurement of hand tremor frequency and amplitude.
 2. Inter-rater reliability comparison of neurologist assessment of finger-tapping bradykinesia.
 
-Please contact <computer.vision.neurology@gmail.com> to enquire about PhD opportunities
+*Please contact <computer.vision.neurology@gmail.com> to enquire about PhD opportunities*
 
 
 Group Members
