@@ -31,16 +31,16 @@ Group Members
 ======
 **Jane Alty** - Senior Lecturer in Neurology, Wicking Dementia 
 Centre, University of Tasmania and Neurologist at RHH.\
-![image of Jane Alty](/images/alty.jpg)
+<img src="/images/alty.jpg" alt="image of Jane Alty" height="150"/>
 
 **Hui Fang** - Lecturer in computer science, Loughborough University.\
-![image of Hui Fang](/images/fang.jpg)
+<img src="/images/fang.jpg" alt="image of Hui Fang" height="150"/>
 
 **Samuel Relton** - Senior Research Fellow, University of Leeds.\
-![image of Samuel Relton](/images/relton.jpg)
+<img src="/images/relton.jpg" alt="image of Samuel Relton" height="150"/>
 
 **Stefan Williams** - Consultant Neurologist, Leeds Teaching Hospitals Trust.\
-![image of Stefan Williams](/images/williams.jpg)
+<img src="/images/williams.jpg" alt="image of Stefan Williams" height="150"/>
 
 **David Wong** - Lecturer in AI for Healthcare, University of Manchester.\
-![image of David Wong](/images/wong.jpg)
+<img src="/images/wong.jpg" alt="image of David Wong" height="150"/>
