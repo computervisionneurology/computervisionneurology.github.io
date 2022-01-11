@@ -30,17 +30,17 @@ Please contact <computer.vision.neurology@gmail.com> to enquire about PhD opport
 Group Members
 ======
 **Jane Alty** - Senior Lecturer in Neurology, Wicking Dementia 
-Centre, University of Tasmania and Neurologist at RHH.
+Centre, University of Tasmania and Neurologist at RHH.\
 ![image of Jane Alty](/images/alty.jpg)
 
-**Hui Fang** - Lecturer in computer science, Loughborough University.
+**Hui Fang** - Lecturer in computer science, Loughborough University.\
 ![image of Hui Fang](/images/fang.jpg)
 
-**Samuel Relton** - Senior Research Fellow, University of Leeds
+**Samuel Relton** - Senior Research Fellow, University of Leeds.\
 ![image of Samuel Relton](/images/relton.jpg)
 
-**Stefan Williams** - Consultant Neurologist, Leeds Teaching Hospitals Trust 
+**Stefan Williams** - Consultant Neurologist, Leeds Teaching Hospitals Trust.\
 ![image of Stefan Williams](/images/williams.jpg)
 
-**David Wong** - Lecturer in AI for Healthcare, University of Manchester
+**David Wong** - Lecturer in AI for Healthcare, University of Manchester.\
 ![image of David Wong](/images/wong.jpg)
