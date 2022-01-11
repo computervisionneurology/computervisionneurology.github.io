@@ -23,6 +23,15 @@ included:
 1. Automatic, video-based measurement of hand tremor frequency and amplitude.
 2. Inter-rater reliability comparison of neurologist assessment of finger-tapping bradykinesia.
 
+Group Members
+======
+Jane Alty
+![image of Jane Alty](/images/alty.jpg)
+Test 1
+![image of Hui Fang](/images/alty.jpg)
+![image of Samuel Relton](/images/alty.jpg)
+![image of Stefan Williams](/images/alty.jpg)
+![image of David Wong](/images/alty.jpg)
 
 Opportunities
 ======
